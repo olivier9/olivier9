@@ -1,6 +1,6 @@
 # readme-projects<!--
 <h2 align="center">
-  Welcome to Al Gitup World!
+  Welcome to Gitup World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>HelloWorld</b> 」
     <br>
     <br>
   </samp>
