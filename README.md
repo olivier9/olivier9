@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Gitup</a></b>
+                <b><a target="_blank" href="https://github.com/gitup0123">Gitup</a></b>
         </samp>
 </h3>
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/gitup0123/gitup0123" target="blank">
+ <a href="https://github.com/gitup0123" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <!--<a href="https://linkedin.com/in/al-siam" target="_blank">
